@@ -2,19 +2,20 @@ title: "Hormone Heroics"
 description: "Balance, vitality, and wellness through smarter hormones"
 baseurl: ""
 url: "https://hormoneheroics.github.io"
+
 author:
   name: "Hormone Heroics Team"
   email: contact@hormoneheroics.com
 
-# Social Links (add your real links if you have them)
 social:
   email: contact@hormoneheroics.com
   facebook: https://www.facebook.com/hormoneheroics
   instagram: https://www.instagram.com/hormoneheroics
 
-# Build settings
 markdown: kramdown
+
 remote_theme: mmistakes/so-simple-theme
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
